@@ -49,7 +49,4 @@ npm run build
 npm run preview
 ```
 
-## Notes
-- Datasets are under `backend/`. You can replace them with larger ones; the code aggregates on the fly and caches results for 5 minutes.
-- For Apache/Nginx, point `/api/*` to `backend/index.php` or configure a reverse proxy to the PHP service.
-- If you previously saw **Failed to fetch**, ensure the PHP server runs on `8000` and that the Vite proxy is active.
+
