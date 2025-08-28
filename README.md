@@ -1,4 +1,4 @@
-# Restaurant Order Trends – Full-Stack (React + PHP)
+# Restaurant Order Trends – Full-Stack 
 
 This repo contains a **React (Vite)** frontend and a **PHP** backend that reads `restaurants.json` and `orders.json` and exposes APIs with filtering, aggregation, caching and pagination.
 
