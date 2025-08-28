@@ -42,11 +42,5 @@ npm run dev
 ```
 The Vite dev server is at `http://localhost:5173` and proxies `/api` to `http://localhost:8000`.
 
-## Production build
-```bash
-cd frontend
-npm run build
-npm run preview
-```
 
 
